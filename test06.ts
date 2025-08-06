@@ -15,4 +15,4 @@ let sum3 = (n1:number, n2:number) : number => {
 
 sum1(10, 20);
 sum2(40, 80);
-console.log(sum3(100, 200));
+console.log(sum3(20, 50));
